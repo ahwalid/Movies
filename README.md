@@ -24,7 +24,7 @@ we are using the flowing API's to display on this website
 
 By Clicking on the See More button details of the Movie is going to display like the image
 
-![on this image after clicking on details the display the Movies details ](ShowDetails.JPG)
+![on this image after clicking on details the display the Movies details ](assets/images/ShowDetails.JPG)
 
 
 ## Technologies
